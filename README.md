@@ -33,8 +33,8 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/cjn2223645442-lgtm/qr-seat-checkin.git
-cd qr-seat-checkin
+[git clone https://github.com/cjn2223645442-lgtm/qr-seat-checkin.git
+cd qr-seat-checkin](https://github.com/cjn2223645442-lgtm/flexdesk-qr-system.git)
 ```
 
 ---
