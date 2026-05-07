@@ -286,7 +286,7 @@
 ## 1️⃣ 克隆项目
 
 ```bash
-git clone https://github.com/yourname/seat-reservation-demo.git
+[git clone https://github.com/yourname/seat-reservation-demo.git]
 
 cd seat-reservation-demo
 ```
