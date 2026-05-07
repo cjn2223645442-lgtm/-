@@ -1,4 +1,4 @@
-# 🚀 卡旺卡共享工位预约管理 Demo
+# 🚀 共享工位预约管理 Demo
 
 一个基于 Flask + SQLite 的共享工位预约管理系统 Demo。
 
@@ -39,6 +39,12 @@
 李四当前坐在哪个工位
 ```
 
+<img width="1896" height="1395" alt="image" src="https://github.com/user-attachments/assets/e54381bd-98f2-41e5-ba66-7038bd9fb5db" />
+
+<img width="2025" height="1173" alt="image" src="https://github.com/user-attachments/assets/035d5b32-3ad7-4d55-b5d8-3c78590a8ba3" />
+
+
+
 仅返回：
 
 ✅ 当前正在使用的工位  
@@ -74,6 +80,8 @@
 
 让工位占用情况一目了然。
 
+<img width="1236" height="1368" alt="image" src="https://github.com/user-attachments/assets/1f01a113-f875-4116-8525-b2c466961361" />
+
 ---
 
 # 🏠 首页功能
@@ -92,6 +100,8 @@
 - 🟠 已占用
 - 🔵 后续有预约
 
+<img width="1353" height="1281" alt="image" src="https://github.com/user-attachments/assets/0b69322d-7a28-4e36-9e34-764273804f17" />
+
 ---
 
 # 👤 员工侧功能
@@ -108,6 +118,8 @@
 
 ✅ 取消未开始预约  
 ✅ 释放当前工位  
+
+<img width="1305" height="459" alt="image" src="https://github.com/user-attachments/assets/ee437f36-a153-4fb2-860b-ae045c1af91f" />
 
 ---
 
@@ -133,6 +145,8 @@
 
 更加接近正式后台系统结构。
 
+<img width="2538" height="1131" alt="image" src="https://github.com/user-attachments/assets/8a9d1888-9af2-4f4b-84e9-2ea2fb8dc6f4" />
+
 ---
 
 # 👥 用户管理
@@ -154,6 +168,8 @@
 - 角色
 - 状态
 
+<img width="2556" height="1331" alt="image" src="https://github.com/user-attachments/assets/32b1d66e-f39e-49f0-829b-8b4ec83c3f6f" />
+
 ---
 
 # 💺 工位管理
@@ -163,6 +179,8 @@
 ✅ 创建工位  
 ✅ 编辑工位  
 ✅ 删除工位  
+
+<img width="2556" height="1023" alt="image" src="https://github.com/user-attachments/assets/b724d3cc-72d5-4bc3-a7cd-029090186533" />
 
 ---
 
@@ -179,6 +197,8 @@
 - 📅 日期
 - 👤 姓名
 - 🏢 部门
+
+<img width="2556" height="627" alt="image" src="https://github.com/user-attachments/assets/6a0d74d8-7672-4912-aabf-332f620561a4" />
 
 ---
 
@@ -211,6 +231,8 @@
 ✅ 日期筛选  
 ✅ 部门筛选  
 ✅ 姓名筛选  
+
+<img width="2526" height="1365" alt="image" src="https://github.com/user-attachments/assets/f87e8027-157b-4b0b-b21f-ca6ff543151f" />
 
 ---
 
@@ -369,4 +391,4 @@ employee
 
 # 📜 License
 
-MIT License
+Andy License
