@@ -33,7 +33,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/your-username/qr-seat-checkin.git
+git clone https://github.com/cjn2223645442-lgtm/qr-seat-checkin.git
 cd qr-seat-checkin
 ```
 
